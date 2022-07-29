@@ -2,9 +2,12 @@
  
  En esperant que ça marche
  
- ** Création de dossier/fichier
+ ## Création de dossier/fichier
+
+
  
- **** src
+ 
+ ### src
  J'y ai mis touts les files du site, les pages, le css (sass), lien vers bootstrap, js, img
  
   - _data => files config de json
