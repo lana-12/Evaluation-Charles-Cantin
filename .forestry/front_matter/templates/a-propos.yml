@@ -16,8 +16,8 @@ fields:
     wysiwyg: false
     schema:
       format: markdown
-  label: paragraphe de hero
-- name: presentation
+  label: Paragraphe de titre - phrase d'accroche
+- name: presentation_body
   type: textarea
   default: ''
   config:
