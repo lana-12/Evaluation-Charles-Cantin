@@ -16,5 +16,3 @@ fields:
     schema:
       format: markdown
   label: paragraphe
-pages:
-- Contenus/hello.md
