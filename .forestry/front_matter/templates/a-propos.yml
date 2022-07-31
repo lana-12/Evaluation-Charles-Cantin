@@ -1,4 +1,29 @@
 ---
 label: A propos
 hide_body: false
-fields: []
+fields:
+- name: hero_title
+  type: text
+  config:
+    required: false
+  description: Titre Phrase d'accroche
+  label: Titre de présentation
+- name: paragraphe_hero
+  type: textarea
+  default: ''
+  config:
+    required: false
+    wysiwyg: false
+    schema:
+      format: markdown
+  label: paragraphe de hero
+- name: presentation
+  type: textarea
+  default: ''
+  config:
+    required: false
+    wysiwyg: false
+    schema:
+      format: markdown
+  label: Présentation
+  description: 'Paragraphe de présentation '
