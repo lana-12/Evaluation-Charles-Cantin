@@ -27,3 +27,5 @@ fields:
       format: markdown
   label: Présentation
   description: 'Paragraphe de présentation '
+pages:
+- Contenus/test1.md
